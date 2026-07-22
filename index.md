@@ -7,4 +7,3 @@ Print("Hello World")
 ```
 
 ---
-footer: james page
